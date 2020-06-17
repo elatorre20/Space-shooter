@@ -1,0 +1,7 @@
+V0.0.1
+-First semi-functional version
+
+V0.1.0
+-Added score and lives counters
+-Added lives mechanic
+-Added game won mechanic and menu
